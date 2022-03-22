@@ -5,7 +5,7 @@ A Data Visualization Project using ELA Test Results (2013-2018) data from NYC Op
 
 Goal: To make a Dashboard capable of displaying the trends of ELA Test Results over 6 years, to answer the question of whether NYC citizens' english language skills have been at satisfactory levels, according to NYS standards. 
 
-Links to Data Sets:
+Links to Data Sets and other materials:
 
 [ELA Test Results by City](https://data.cityofnewyork.us/Education/2013-2018-Citywide-ELA-Results/gj2m-sgjc)
 
