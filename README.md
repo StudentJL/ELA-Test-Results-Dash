@@ -1,7 +1,7 @@
 # ELA Test Results Data Visualization
 By Joseph Liu
 
-A Data Visualization Project using ELA Test Results data from NYC Open Data. (Planning in progress)
+A Data Visualization Project using ELA Test Results (2013-2018) data from NYC Open Data. (Planning in progress)
 
 Links to Data Sets:
 
