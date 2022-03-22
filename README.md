@@ -3,7 +3,7 @@ By Joseph Liu
 
 A Data Visualization Project using ELA Test Results (2013-2018) data from NYC Open Data. (Planning in progress)
 
-Goal: To make a Dashboard capable of displaying the trends of ELA Test Results over 6 years, to answer the question of whether NYC citizens' english language skills are at satisfactory levels. 
+Goal: To make a Dashboard capable of displaying the trends of ELA Test Results over 6 years, to answer the question of whether NYC citizens' english language skills have been at satisfactory levels. 
 
 Links to Data Sets:
 
