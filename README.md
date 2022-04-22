@@ -1,7 +1,7 @@
 # ELA Test Results Data Visualization
 By Joseph Liu
 
-A Data Visualization Project using ELA Test Results (2013-2018) data from NYC Open Data. (Planning in progress)
+A Data Visualization Project using ELA Test Results (2013-2018) data from the Department of Education (DOE) and NYC Open Data. (Planning in progress)
 
 Goal: To make a Dashboard capable of displaying the trends of ELA Test Results over 6 years, to answer the question of whether the english language skills of NYC's children have been at satisfactory levels, according to NYS standards. 
 
