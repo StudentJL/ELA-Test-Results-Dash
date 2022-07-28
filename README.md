@@ -14,3 +14,5 @@ Links to Data Sets and other materials:
 [ELA Test Results by District](https://data.cityofnewyork.us/Education/2013-2018-District-ELA-Results/7hpk-8zed)
 
 [NYS Definition of Performance Levels for ELA Tests](https://www.p12.nysed.gov/irs/pressRelease/20190822/documents/ela-2019-scale-score-performance-level-conversion-charts.pdf)
+
+To run the code in these files, you may have to install Bootstrap for Dash via `pip install dash-bootstrap-components`, and Plotly Dash via `pip install dash`.
